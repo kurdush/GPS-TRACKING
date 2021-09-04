@@ -1,7 +1,6 @@
 # GPS-TRACKING
 * This is an android application which demonstrates the GPS features of our mobile
 
- - - - - 
  ---------------------------------------
 
  ## The following features are used in following application
@@ -32,7 +31,7 @@
 
 ## The App allows users to 
 
-*   ![Alt text](https://github.com/kurdush/HOUSE-SALES-PREDICTION/blob/7a99ef4b580dc5ae87a026a24082181b22965193/Images/count_plot.png)
+![Alt text](https://github.com/kurdush/GPS-TRACKING/blob/c0a7e123a2f7f79eae3bb9ee601ade457b421f92/images/gps_output.png)
    
 * ### turn location tracking on or off   
 
