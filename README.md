@@ -3,7 +3,7 @@
 
  ---------------------------------------
 
- ## The following features are used in following application
+ ## The following features are used in this application
  
 * ### FusedLocationProviderClient
    \- The standard Android API usedfor reading GPS and cell phone tower location data.
