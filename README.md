@@ -25,7 +25,7 @@
 * ### GeoCode:
    \- A google service to automatically translate a GPS location to a street address.
    
-* ### /*starting and stopping location tracking
+* ### starting and stopping location tracking
    
 ---------------------------------------
 
